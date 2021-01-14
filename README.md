@@ -1,3 +1,6 @@
-# Progate-Webathon-test
+# Progate-Webathon
 
-This is Understanding of Github how to create a repository.
+A Project on Portfolio Website
+
+Developed by Prateek Chandra
+Student at Indian Institute of Information Technology, Bhagalpur
